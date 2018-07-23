@@ -1,9 +1,5 @@
 
 
-
-
-
-
 def search_games(games):
 	search_term = input(" >>> ")
 	found_games = []
